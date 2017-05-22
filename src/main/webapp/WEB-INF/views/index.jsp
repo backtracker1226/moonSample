@@ -60,6 +60,9 @@ http://www.templatemo.com/tm-475-holiday
 		<div class="flexslider flexslider-banner">
 		  <ul class="slides">
 		    <li>
+		    
+		    
+		    <!-- 배너 글씨 부분 수정을 요합니다. -->
 			    <div class="tm-banner-inner">
 					<h1 class="tm-banner-title">Find <span class="tm-yellow-text">The Best</span> Place</h1>
 					<p class="tm-banner-subtitle">For Your Holidays</p>
@@ -81,7 +84,13 @@ http://www.templatemo.com/tm-475-holiday
 					<p class="tm-banner-subtitle">Velit Auctor</p>
 					<a href="#more" class="tm-banner-link">Learn More</a>	
 				</div>
+				
+				<!-- 배너 글씨 부분 수정을 요합니다. -->
+				
+				
 		      <img src="resources/img/banner-3.jpg" alt="Image" />
+		      
+		      
 		    </li>
 		  </ul>
 		</div>	
@@ -90,19 +99,23 @@ http://www.templatemo.com/tm-475-holiday
 	<!-- gray bg -->	
 	<section class="container tm-home-section-1" id="more">
 		<div class="row">
-			<div class="col-lg-4 col-md-4 col-sm-6">
-				<!-- Nav tabs -->
+		
+		<!-- 예약 부분을 주석 처리 하였습니다. -->
+			<!-- <div class="col-lg-4 col-md-4 col-sm-6">
+				Nav tabs
 				<div class="tm-home-box-1">
 					<ul class="nav nav-tabs tm-white-bg" role="tablist" id="hotelCarTabs">
 					    <li role="presentation" class="active">
 					    	<a href="#hotel" aria-controls="hotel" role="tab" data-toggle="tab">Hotel</a>
 					    </li>
+					    
+					    car부분을 삭제 하였습니다 활성화를 원하실 경우 아래 주석을 제거 하여 주시길 바랍니다.
 					    <li role="presentation">
 					    	<a href="#car" aria-controls="car" role="tab" data-toggle="tab">Car Rental</a>
 					    </li>
 					</ul>
 
-					<!-- Tab panes -->
+					Tab panes
 					<div class="tab-content">
 					    <div role="tabpanel" class="tab-pane fade in active tm-white-bg" id="hotel">
 					    	<div class="tm-search-box effect2">
@@ -196,7 +209,8 @@ http://www.templatemo.com/tm-475-holiday
 					    </div>				    
 					</div>
 				</div>								
-			</div>
+			</div> -->
+			<!-- 예약 부분 마지막 입니다. -->
 
 			<div class="col-lg-4 col-md-4 col-sm-6">
 				<div class="tm-home-box-1 tm-home-box-1-2 tm-home-box-1-center">
@@ -220,6 +234,22 @@ http://www.templatemo.com/tm-475-holiday
 					</a>					
 				</div>				
 			</div>
+			
+			<!-- 서울을 추가 하였습니다. -->
+			
+						<div class="col-lg-4 col-md-4 col-sm-6">
+				<div class="tm-home-box-1 tm-home-box-1-2 tm-home-box-1-right">
+					<img src="resources/img/index-02.jpg" alt="image" class="img-responsive">
+					<a href="#">
+						<div class="tm-red-gradient-bg tm-city-price-container">
+							<span>Seoul</span>
+							<span>$4,800</span>
+						</div>	
+					</a>					
+				</div>				
+			</div>
+			<!-- 서울을 추가 하였습니다. -->
+			
 		</div>
 	
 		<div class="section-margin-top">

@@ -231,6 +231,8 @@ body { overflow-x: hidden; }
 .tm-white-bg {
 	background-color: #fff;
 }
+
+/* 메인 옥상 이미지 조정을 하는 부분 입니다. */
 .tm-home-box-1 {
 	width: 346px;
 	height: 436px;
